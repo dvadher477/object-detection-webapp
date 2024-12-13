@@ -1,0 +1,4 @@
+train: E:\TeraBoxDownload\object-detection-webapp\BCCD_Dataset\train\images
+val: E:\TeraBoxDownload\object-detection-webapp\BCCD_Dataset\val\images
+nc: 3
+names: ["RBC", "WBC", "Platelets"]
